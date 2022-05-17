@@ -1,13 +1,14 @@
 <script lang="ts" setup></script>
 
 <template>
-    <div class="p-5 txt">
+    <div class="p-5 login-text">
         Login
     </div>
 </template>
 
 <style scoped>
-.txt{
+.login-text{
+    color: white;
     left: 0;
     position: absolute;
     right: 0;
